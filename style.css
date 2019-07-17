@@ -1,0 +1,35 @@
+
+
+.body {
+    background-color: white;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 25%;
+    margin-top: 10%;;
+}
+
+
+
+h1 {
+    color: #161616;
+}
+
+h3 {
+    color: #464646
+}
+
+
+
+
+a:link {
+    color: #646464
+}
+
+a:hover {
+    color: #ffde57
+}
+
+a:visited {
+    color: #4584b6
+}
+
